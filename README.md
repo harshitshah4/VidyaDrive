@@ -6,13 +6,18 @@ VidyaDrive functions on storing all your study notes classified into Subjects , 
 
 Features :
 
-Upload Notes
-View Notes
-Subject-wise Categorization
-Chatper-wise Categorization
-Course-wise Categorization
+1.Upload Notes
+
+2.View Notes
+
+3.Subject-wise Categorization
+
+4.Chatper-wise Categorization
+
+5.Course-wise Categorization
 
 Description:
+
 VidyaDrive was developed taking Engineering Students into consideration but the same method could be applied to learn and implement other apps.
 Its a one place to store notes . Where students can help each other by sharing their notes.
 
