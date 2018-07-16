@@ -1,6 +1,8 @@
 # VidyaDrive
 An app to store all your notes
 
+The aim of this project is to get an idea about creating an app similar to Google Drive or Any Storage drive using Firebase.
+
 This app is developed to preach others on working with Firebase and Android Development.
 VidyaDrive functions on storing all your study notes classified into Subjects , Chapters as well as Course Year .
 
@@ -23,3 +25,5 @@ Its a one place to store notes . Where students can help each other by sharing t
 
 
 The app is upload on Amazon App Store link to which is:https://www.amazon.com.au/Harshit-Shah-VidyaDrive/dp/B07DVCTVGY
+
+I dont suggest Firebase if you have need of high storage.
