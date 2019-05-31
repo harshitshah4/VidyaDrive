@@ -41,7 +41,6 @@ public class MainActivity extends AppCompatActivity {
         actionBar.hide();
 
 
-
         bulbls = findViewById(R.id.bulb);
         ((TransitionDrawable) bulbls.getDrawable()).startTransition(4000);
         new Handler().postDelayed(new Runnable() {

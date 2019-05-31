@@ -3,8 +3,4 @@
     <item android:drawable="@drawable/bulb_off"/>
     <item android:drawable="@drawable/bulb_onn"/>
 
-
-
-
-
 </transition>
